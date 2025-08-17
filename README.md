@@ -1,5 +1,5 @@
 # tourism_ai_agent
-#An advanced AI-powered virtual tour guide for Kashmir tourists, featuring fuzzy query matching, personalized itinerary suggestions, and up-to-date 2025 travel insights on attractions, safety, cuisine, and more.
+# An advanced AI-powered virtual tour guide for Kashmir tourists, featuring fuzzy query matching, personalized itinerary suggestions, and up-to-date 2025 travel insights on attractions, safety, cuisine, and more.
 
 # Enhanced Kashmir Tourism AI Agent
 # This script creates a command-line chatbot with fuzzy matching, personalized recommendations, and conversation memory.
